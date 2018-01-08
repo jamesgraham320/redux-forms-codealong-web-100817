@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import CreateTodo from './components/todos/CreateTodo'
-
+import React, { Component } from "react";
+import CreateTodo from "./components/todos/CreateTodo";
+//comment
 class App extends Component {
   render() {
     return (
